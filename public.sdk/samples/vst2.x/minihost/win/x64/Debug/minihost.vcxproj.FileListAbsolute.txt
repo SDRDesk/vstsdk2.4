@@ -1,1 +1,2 @@
 U:\DSPAudio\Helpers\vstsdk2.4\public.sdk\samples\vst2.x\minihost\win\x64\Debug\minihost.exe
+C:\Users\DevNVME\Desktop\vstsdk2.4\public.sdk\samples\vst2.x\minihost\win\x64\Debug\minihost.exe
